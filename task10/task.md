@@ -4,3 +4,4 @@
 2. определи функциональные зависимости
 3. проставь связи 
 Схему базы можно выполнить в draw.io или любом удобном сервисе
+![Table](https://github.com/vkhalaim/nix_python_course/img/table_task_10.jpg)
