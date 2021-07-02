@@ -4,4 +4,4 @@
 3. добавить связи между таблицами
 4. заполнить таблицу данными (для заполнения базы воспользуйтесь прикрепленными csv файлами)
 
-![Diagram](https://github.com/vkhalaim/nix_python_course/blob/master/img/task_11.jpeg)
+![Diagram](https://github.com/vkhalaim/nix_python_course/blob/master/img/task_11%20.jpeg)
