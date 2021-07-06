@@ -1,7 +1,8 @@
 def divide_list(list_, n):
     """
     This function divides list to N sublist. N -> len(list) / n.
-    If there are no possibility to divide list equally, last item consists of remaining items.
+    If there are no possibility to divide list equally,
+    last item consists of remaining items.
     :param list_: list of elements to divide
     :param n: number of sublists
     :return: list of sublists

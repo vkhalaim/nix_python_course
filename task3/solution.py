@@ -6,4 +6,5 @@ def round_to_hundredth(price):
     """
     rounded_price = round(price, 2)
 
-    return rounded_price if not rounded_price.is_integer() else int(rounded_price)
+    return rounded_price if not rounded_price.is_integer() \
+        else int(rounded_price)

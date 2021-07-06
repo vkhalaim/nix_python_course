@@ -17,5 +17,6 @@ class TestJoinListWithCommas(unittest.TestCase):
     def test_empty_list(self):
         self.assertEqual(join_list_with_commas([]), "")
 
+
 if __name__ == "__main__":
     unittest.main()
